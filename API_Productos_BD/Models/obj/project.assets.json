@@ -8,25 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\pnajera\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Marzy Elizalde\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pnajera\\source\\repos\\Curso Agosto Git\\API_Productos_BD\\Models\\Models.csproj",
+      "projectUniqueName": "E:\\CODIGO\\APIs CURSO Git\\Productos\\API_Productos_BD\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "C:\\Users\\pnajera\\source\\repos\\Curso Agosto Git\\API_Productos_BD\\Models\\Models.csproj",
-      "packagesPath": "C:\\Users\\pnajera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pnajera\\source\\repos\\Curso Agosto Git\\API_Productos_BD\\Models\\obj\\",
+      "projectPath": "E:\\CODIGO\\APIs CURSO Git\\Productos\\API_Productos_BD\\Models\\Models.csproj",
+      "packagesPath": "C:\\Users\\Marzy Elizalde\\.nuget\\packages\\",
+      "outputPath": "E:\\CODIGO\\APIs CURSO Git\\Productos\\API_Productos_BD\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\pnajera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Marzy Elizalde\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -35,7 +33,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.telerik.com/nuget.": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -65,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

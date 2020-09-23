@@ -56,13 +56,13 @@ namespace Business
         /// Obtiene todos los registros de Producto 
         /// </summary>
         /// <returns>Devuelve una lista de objetos de tipo Producto</returns>
-        public async Task<IList<Producto>> ObtenerProductosAsync()
+        public async Task<IList<ProductoCustom>> ObtenerProductosAsync()
         {
-            Task<List<Producto>> listaProducto;
+            Task<List<ProductoCustom>> listaProducto;
             try
             {
                 //listaProducto = context.CtProducto.Where(x => x.Activo).Select(x => new Producto
-                listaProducto = context.CtProducto.Select(x => new Producto
+                listaProducto = context.CtProducto.Select(x => new ProductoCustom
                 {
                     IdProducto = x.PKIdProducto,
                     SKU = x.SKU,
@@ -71,9 +71,13 @@ namespace Business
                     Costo = x.Costo,
                     Imagen = x.Imagen,
                     IdProveedor = x.FKIdProveedor,
+                    Proveedor = x.FKIdProveedorNavigation.Descripcion,
                     IdCategoria = x.FKIdCategoria,
+                    Categoria = x.FKIdCategoriaNavigation.Descripcion,
                     IdMarca = x.FKIdMarca,
+                    Marca = x.FKIdMarcaNavigation.Descripcion,
                     IdUnidadMedida = x.FKIdUnidadMedida,
+                    UnidadMedida = x.FKIdUnidadMedidaNavigation.Descripcion,
                     Activo = x.Activo
                 }).OrderBy(x => x.IdProducto).ToListAsync();
             }

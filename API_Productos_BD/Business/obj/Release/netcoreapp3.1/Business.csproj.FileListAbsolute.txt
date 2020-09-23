@@ -26,3 +26,17 @@ C:\Users\pnajera\source\repos\Curso Agosto Git\API_Productos_BD\Business\obj\Rel
 C:\Users\pnajera\source\repos\Curso Agosto Git\API_Productos_BD\Business\obj\Release\netcoreapp3.1\Business.csproj.CopyComplete
 C:\Users\pnajera\source\repos\Curso Agosto Git\API_Productos_BD\Business\obj\Release\netcoreapp3.1\Business.dll
 C:\Users\pnajera\source\repos\Curso Agosto Git\API_Productos_BD\Business\obj\Release\netcoreapp3.1\Business.pdb
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Business\bin\Release\netcoreapp3.1\Business.deps.json
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Business\bin\Release\netcoreapp3.1\Business.dll
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Business\bin\Release\netcoreapp3.1\Business.pdb
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Business\bin\Release\netcoreapp3.1\Data.dll
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Business\bin\Release\netcoreapp3.1\Models.dll
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Business\bin\Release\netcoreapp3.1\Data.pdb
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Business\bin\Release\netcoreapp3.1\Models.pdb
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Business\obj\Release\netcoreapp3.1\Business.csprojAssemblyReference.cache
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Business\obj\Release\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Business\obj\Release\netcoreapp3.1\Business.AssemblyInfo.cs
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Business\obj\Release\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Business\obj\Release\netcoreapp3.1\Business.csproj.CopyComplete
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Business\obj\Release\netcoreapp3.1\Business.dll
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Business\obj\Release\netcoreapp3.1\Business.pdb

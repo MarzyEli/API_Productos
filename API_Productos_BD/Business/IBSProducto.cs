@@ -17,7 +17,7 @@ namespace Business
         /// Obtiene todos los registros de Producto activos
         /// </summary>
         /// <returns>Devuelve una lista de objetos de tipo Producto</returns>
-        Task<IList<Producto>> ObtenerProductosAsync();
+        Task<IList<ProductoCustom>> ObtenerProductosAsync();
 
         /// <summary>
         /// Obtiene Producto por Id

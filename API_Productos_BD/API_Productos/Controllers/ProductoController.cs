@@ -52,12 +52,12 @@ namespace API_Productos.Controllers
         /// </summary>
         /// <returns>Devuelve una lista de objetos de tipo Producto</returns>
         [HttpGet("obtenerProductos")]
-        public async Task<ActionResult<IList<Producto>>> ObtenerProductoesAsync()
+        public async Task<ActionResult<IList<ProductoCustom>>> ObtenerProductoesAsync()
         {
             ObjectResult valRet;
             _logger.LogInformation("ObtenerProductosAsync: INICIO");
 
-            IList<Producto> listaProductoes = null;
+            IList<ProductoCustom> listaProductoes = null;
             try
             {
                 listaProductoes = await _bsProducto.ObtenerProductosAsync();

@@ -46,3 +46,15 @@ C:\Users\pnajera\source\repos\Curso Agosto Git\API_Productos_BD\Data\obj\Debug\n
 C:\Users\pnajera\source\repos\Curso Agosto Git\API_Productos_BD\Data\obj\Debug\netcoreapp3.1\Data.dll
 C:\Users\pnajera\source\repos\Curso Agosto Git\API_Productos_BD\Data\obj\Debug\netcoreapp3.1\Data.pdb
 C:\Users\pnajera\source\repos\Curso Agosto Git\API_Productos_BD\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Data\bin\Debug\netcoreapp3.1\Data.dll
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Data\bin\Debug\netcoreapp3.1\Data.pdb
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Data\obj\Debug\netcoreapp3.1\Data.dll
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Data\obj\Debug\netcoreapp3.1\Data.pdb
+E:\CODIGO\APIs CURSO Git\Productos\API_Productos_BD\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
